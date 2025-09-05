@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbergconnect_docs=self.webpackChunkbergconnect_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/bergconnect-docs/blog","blogTitle":"Blog","authorsListPath":"/bergconnect-docs/blog/authors"}')}}]);
