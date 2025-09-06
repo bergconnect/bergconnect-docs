@@ -85,12 +85,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/berg-connect-faded-edges.png',
+      image: 'img/berg-connect.png',
       navbar: {
-        title: 'docs.berg-connect.nl',
+        title: 'berg-connect',
         logo: {
-          alt: 'docs.berg-connect.nl Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo',
+          src: 'img/berg-connect.svg',
         },
         items: [
           {
