@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'docs.berg-connect.nl',
+  title: 'berg-connect',
   tagline: 'Documents',
   favicon: 'img/favicon.ico',
 
@@ -90,7 +90,7 @@ const config = {
         title: 'berg-connect',
         logo: {
           alt: 'Logo',
-          src: 'img/berg-connect.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
